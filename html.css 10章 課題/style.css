@@ -61,6 +61,8 @@ main {
   margin: 15px 0 5px;
 }
 
+
+
 footer {
   height: 50px;
   background-color: #aaa;
@@ -80,22 +82,8 @@ footer {
     width: 100%;
     margin: 20px auto;
     position: relative;
+    
   }
-
-
-  .main-img1 {
-     height: 150px;
-     
-  }
-
-  .main-img2 {
-    height: 150px;
-  }
-  
-  .main-img3 {
-    height: 150px;
-  }
-
 }
 
  
